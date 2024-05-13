@@ -27,9 +27,6 @@ if __name__ == '__main__':
     channs = 22
     time_points = 257
     input_shape = (trials, channs, time_points)
-
-    # Create the random array
     example_data = np.random.rand(*input_shape)
-
     augmented_data = jittering(example_data)
     print("Augmented Dataset's shape:", augmented_data.shape)
