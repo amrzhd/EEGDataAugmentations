@@ -22,9 +22,11 @@ Data augmentation is essential for enriching the training dataset by creating di
 
 ## Papers Using These Methods
 
-- [NF-EEG](10.1016/j.bspc.2024.106081): This paper explores the use of Jittering and Scaling techniques for enhancing EEG classification performance. [Link](10.1016/j.bspc.2024.106081)
+- Jittering and Scaling:
+  [E. Arı and E. Taçgın, "NF-EEG: A generalized CNN model for multi-class EEG motor imagery classification without signal preprocessing for brain-computer interfaces," Biomedical Signal Processing and Control, vol. 92, p. 106081, 2024.](https://doi.org/10.1016/j.bspc.2024.106081)
 
-- [MSCTANN](http://dx.doi.org/10.1109/TNSRE.2023.3294815): The MSCTANN paper employs the Head-to-Tail augmentation method to improve the robustness of EEG-based brain-computer interfaces. [Link](http://dx.doi.org/10.1109/TNSRE.2023.3294815)
+- Head-to-Tail:
+  [R. Wu, J. Jin, I. Daly, X. Wang, and A. Cichocki, "Classification of motor imagery based on multi-scale feature extraction and the channel-temporal attention module," IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023.](http://dx.doi.org/10.1109/TNSRE.2023.3294815)
 
 ---
 
